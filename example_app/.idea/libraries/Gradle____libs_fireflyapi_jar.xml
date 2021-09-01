@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./libs/fireflyapi.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/fireflyapi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/fireflyapi.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#02105A"
+    android:orientation="vertical">
+
+    <android.support.constraint.ConstraintLayout
+        android:id="@+id/bar"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="#010F39"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textColor="@color/setting_text_color"
+            android:textSize="30dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <android.support.constraint.ConstraintLayout
+            android:id="@+id/btn_back_to_setting"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="30dp"
+                android:src="@drawable/ic_baseline_arrow_back_24"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+        </android.support.constraint.ConstraintLayout>
+
+    </android.support.constraint.ConstraintLayout>
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/setting_host_item_close_door"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:text="关闭常开"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Button
+            android:id="@+id/setting_host_item_always_open_enter"
+            android:layout_width="0dp"
+            android:layout_height="80dp"
+            android:text="常开：进"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toLeftOf="@id/setting_host_item_always_open_leave"
+            app:layout_constraintTop_toBottomOf="@id/setting_host_item_close_door" />
+
+        <Button
+            android:id="@+id/setting_host_item_always_open_leave"
+            android:layout_width="0dp"
+            android:layout_height="80dp"
+            android:text="常开：出"
+            app:layout_constraintLeft_toRightOf="@id/setting_host_item_always_open_enter"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/setting_host_item_close_door" />
+
+        <Button
+            android:id="@+id/setting_host_item_open_enter"
+            android:layout_width="0dp"
+            android:layout_height="80dp"
+            android:text="开门：进"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toLeftOf="@id/setting_host_item_open_leave"
+            app:layout_constraintTop_toBottomOf="@id/setting_host_item_always_open_enter" />
+
+        <Button
+            android:id="@+id/setting_host_item_open_leave"
+            android:layout_width="0dp"
+            android:layout_height="80dp"
+            android:text="开门：出"
+            app:layout_constraintLeft_toRightOf="@id/setting_host_item_open_enter"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/setting_host_item_always_open_leave" />
+
+        <Button
+            android:id="@+id/setting_host_item_read_gcu_config"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:text="读取GCU信息"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/setting_host_item_open_leave" />
+
+        <Button
+            android:id="@+id/setting_host_item_read_lecooai"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:text="厂家信息"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/setting_host_item_read_gcu_config" />
+
+        <Button
+            android:id="@+id/setting_host_item_firmware_version"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:text="固件版本"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/setting_host_item_read_lecooai" />
+
+        <Button
+            android:id="@+id/setting_host_item_soft_restart"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:text="软重启"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/setting_host_item_firmware_version" />
+
+        <Button
+            android:id="@+id/setting_host_item_open_door_enter"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:text="进触发开门"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/setting_host_item_soft_restart" />
+
+        <Button
+            android:id="@+id/setting_host_item_open_door_leave"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:text="出触发开门"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/setting_host_item_open_door_enter" />
+
+        <Button
+            android:id="@+id/setting_host_item_open_door"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:text="无触发开门"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/setting_host_item_open_door_leave" />
+
+        <Button
+            android:id="@+id/setting_host_item_mode_one_by_one"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:text="1人1票"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/setting_host_item_open_door" />
+
+        <Button
+            android:id="@+id/setting_host_item_mode_line_up"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:text="排队模式"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/setting_host_item_mode_one_by_one" />
+
+    </android.support.constraint.ConstraintLayout>
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+    </android.support.constraint.ConstraintLayout>
+
+</LinearLayout>

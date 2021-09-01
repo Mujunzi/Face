@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_keyboard_arrow_right_24.xml.flat",
+        "source": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\src\\main\\res\\drawable\\ic_baseline_keyboard_arrow_right_24.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_popup_background.xml.flat",
+        "source": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\src\\main\\res\\drawable-xxhdpi\\popup_background.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_info.png.flat",
+        "source": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\src\\main\\res\\drawable-xhdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\src\\main\\res\\drawable\\ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_background.xml.flat",
+        "source": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\src\\main\\res\\drawable-xxhdpi\\btn_background.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_selected.xml.flat",
+        "source": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\src\\main\\res\\drawable\\tab_selected.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_info.png.flat",
+        "source": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\src\\main\\res\\drawable-xxhdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_camera2_basic.xml.flat",
+        "source": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\src\\main\\res\\layout\\fragment_camera2_basic.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_background.xml.flat",
+        "source": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\src\\main\\res\\layout\\fragment_background.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\build\\intermediates\\res\\merged\\debug\\layout_popup_background_username.xml.flat",
+        "source": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\src\\main\\res\\layout\\popup_background_username.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\build\\intermediates\\res\\merged\\debug\\layout-land_fragment_camera2_basic.xml.flat",
+        "source": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\src\\main\\res\\layout-land\\fragment_camera2_basic.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_information.xml.flat",
+        "source": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\src\\main\\res\\layout\\fragment_information.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\build\\intermediates\\res\\merged\\debug\\layout_popup_layout.xml.flat",
+        "source": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\src\\main\\res\\layout\\popup_layout.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\build\\intermediates\\res\\merged\\debug\\layout_activity_camera.xml.flat",
+        "source": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\build\\intermediates\\res\\merged\\debug\\layout_popup_background_item.xml.flat",
+        "source": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\src\\main\\res\\layout\\popup_background_item.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\build\\intermediates\\res\\merged\\debug\\layout_recognition_popup.xml.flat",
+        "source": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\src\\main\\res\\layout\\recognition_popup.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_edit_background.xml.flat",
+        "source": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\src\\main\\res\\drawable-xxhdpi\\edit_background.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_host_setting.xml.flat",
+        "source": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\src\\main\\res\\layout\\fragment_host_setting.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_setting2.xml.flat",
+        "source": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\src\\main\\res\\layout\\fragment_setting2.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_info.png.flat",
+        "source": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\src\\main\\res\\drawable-hdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\build\\intermediates\\res\\merged\\debug\\drawable_dd.xml.flat",
+        "source": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\src\\main\\res\\drawable\\dd.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tile.9.png.flat",
+        "source": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_info.png.flat",
+        "source": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\src\\main\\res\\drawable-mdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_function.xml.flat",
+        "source": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\src\\main\\res\\layout\\fragment_function.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_system.xml.flat",
+        "source": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\src\\main\\res\\layout\\fragment_system.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_setting.xml.flat",
+        "source": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\src\\main\\res\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\build\\intermediates\\res\\merged\\debug\\layout_activity_test.xml.flat",
+        "source": "D:\\Program Files\\Android\\AndroidStudioProjects\\Face\\example_app\\src\\main\\res\\layout\\activity_test.xml"
+    }
+]

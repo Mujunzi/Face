@@ -1,0 +1,108 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.lenovo.lefacecamerademo"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:5:5-65
+11-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:5:22-62
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:6:5-67
+12-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:6:22-64
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:7:5-79
+13-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:7:22-76
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:8:5-81
+14-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:8:22-78
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:9:5-80
+15-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:9:22-77
+16    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- 开机启动权限 -->
+16-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:10:5-68
+16-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:10:22-65
+17    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+17-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:11:5-81
+17-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:11:22-78
+18
+19    <uses-feature android:name="android.hardware.camera" />
+19-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:13:5-60
+19-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:13:19-57
+20    <uses-feature android:name="android.hardware.camera.autofocus" />
+20-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:14:5-70
+20-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:14:19-67
+21
+22    <application
+22-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:16:5-47:19
+23        android:allowBackup="true"
+23-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:17:9-35
+24        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+24-->[com.android.support:support-compat:28.0.0] C:\Users\86175\.gradle\caches\transforms-2\files-2.1\2a6c121eda6c2cbe33230f54b72bbbd4\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+25        android:debuggable="true"
+26        android:icon="@drawable/ic_launcher"
+26-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:18:9-45
+27        android:label="@string/app_name"
+27-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:19:9-41
+28        android:theme="@style/MaterialTheme" >
+28-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:20:9-45
+29        <activity
+29-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:21:9-30:20
+30            android:name="com.lenovo.lefacecamerademo.ui.activity.CameraActivity"
+30-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:22:13-55
+31            android:label="@string/app_name"
+31-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:23:13-45
+32            android:screenOrientation="portrait" >
+32-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:24:13-49
+33            <intent-filter>
+33-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:25:13-29:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:26:17-69
+34-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:26:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:28:17-77
+36-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:28:27-74
+37            </intent-filter>
+38        </activity> <!-- mqtt service -->
+39        <service android:name="org.eclipse.paho.android.service.MqttService" />
+39-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:31:9-80
+39-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:31:18-77
+40        <service
+40-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:32:9-39:19
+41            android:name="com.lenovo.lefacecamerademo.service.FaceService"
+41-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:33:13-48
+42            android:enabled="true"
+42-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:34:13-35
+43            android:label="FaceService" >
+43-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:35:13-40
+44            <intent-filter>
+44-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:36:13-38:29
+45                <action android:name="android.intent.action.RESPOND_VIA_MESSAGE" />
+45-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:37:17-84
+45-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:37:25-81
+46            </intent-filter>
+47        </service> <!-- 开机自启动广播接受 -->
+48        <receiver android:name="com.lenovo.lefacecamerademo.receiver.AutoStartBroadcastReceiver" >
+48-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:40:9-46:20
+48-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:40:19-70
+49            <intent-filter>
+49-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:41:13-45:29
+50                <action android:name="android.intent.action.BOOT_COMPLETED" />
+50-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:42:17-79
+50-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:42:25-76
+51
+52                <category android:name="android.intent.category.HOME" />
+52-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:44:17-73
+52-->D:\Program Files\Android\AndroidStudioProjects\Face\example_app\src\main\AndroidManifest.xml:44:27-70
+53            </intent-filter>
+54        </receiver>
+55    </application>
+56
+57</manifest>

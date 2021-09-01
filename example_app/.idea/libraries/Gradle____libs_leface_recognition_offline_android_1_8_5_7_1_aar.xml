@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: ./libs/leface-recognition-offline-android-1.8.5.7.1.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-5.1.1-all/caches/transforms-2/files-2.1/06d293808e4b31cb2c821c3c9860c0cc/jars/libs/opencv401.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-5.1.1-all/caches/transforms-2/files-2.1/06d293808e4b31cb2c821c3c9860c0cc/jars/libs/httpclient-4.3.6.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-5.1.1-all/caches/transforms-2/files-2.1/06d293808e4b31cb2c821c3c9860c0cc/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-5.1.1-all/caches/transforms-2/files-2.1/06d293808e4b31cb2c821c3c9860c0cc/res" />
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-5.1.1-all/caches/transforms-2/files-2.1/06d293808e4b31cb2c821c3c9860c0cc/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

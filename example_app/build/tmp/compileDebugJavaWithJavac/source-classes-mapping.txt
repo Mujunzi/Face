@@ -1,0 +1,115 @@
+com/lenovo/lefacecamerademo/ui/ConfigClass.java
+ com.lenovo.lefacecamerademo.ui.ConfigClass
+ com.lenovo.lefacecamerademo.ui.ConfigClass$Function
+ com.lenovo.lefacecamerademo.ui.ConfigClass$HostSetting
+ com.lenovo.lefacecamerademo.ui.ConfigClass$MQTT
+com/lenovo/lefacecamerademo/ui/fragment/BackgroundFragment.java
+ com.lenovo.lefacecamerademo.ui.fragment.BackgroundFragment
+ com.lenovo.lefacecamerademo.ui.fragment.BackgroundFragment$1
+ com.lenovo.lefacecamerademo.ui.fragment.BackgroundFragment$2
+ com.lenovo.lefacecamerademo.ui.fragment.BackgroundFragment$3
+ com.lenovo.lefacecamerademo.ui.fragment.BackgroundFragment$4
+ com.lenovo.lefacecamerademo.ui.fragment.BackgroundFragment$5
+com/lenovo/lefacecamerademo/utils/BitmapUtils.java
+ com.lenovo.lefacecamerademo.utils.BitmapUtils
+com/lenovo/lefacecamerademo/ui/CircleImageView.java
+ com.lenovo.lefacecamerademo.ui.CircleImageView
+com/lenovo/lefacecamerademo/ui/activity/CameraActivity.java
+ com.lenovo.lefacecamerademo.ui.activity.CameraActivity
+ com.lenovo.lefacecamerademo.ui.activity.CameraActivity$1
+ com.lenovo.lefacecamerademo.ui.activity.CameraActivity$2
+ com.lenovo.lefacecamerademo.ui.activity.CameraActivity$3
+ com.lenovo.lefacecamerademo.ui.activity.CameraActivity$4
+ com.lenovo.lefacecamerademo.ui.activity.CameraActivity$5
+ com.lenovo.lefacecamerademo.ui.activity.CameraActivity$6
+ com.lenovo.lefacecamerademo.ui.activity.CameraActivity$7
+ com.lenovo.lefacecamerademo.ui.activity.CameraActivity$8
+com/lenovo/lefacecamerademo/instructions/State.java
+ com.lenovo.lefacecamerademo.instructions.State
+com/lenovo/lefacecamerademo/utils/MyUtils.java
+ com.lenovo.lefacecamerademo.utils.MyUtils
+ com.lenovo.lefacecamerademo.utils.MyUtils$1
+ com.lenovo.lefacecamerademo.utils.MyUtils$2
+ com.lenovo.lefacecamerademo.utils.MyUtils$3
+com/lenovo/lefacecamerademo/camera/CameraListener.java
+ com.lenovo.lefacecamerademo.camera.CameraListener
+com/lenovo/lefacecamerademo/utils/MyContextWrapper.java
+ com.lenovo.lefacecamerademo.utils.MyContextWrapper
+com/lenovo/lefacecamerademo/camera/DualCameraHelper.java
+ com.lenovo.lefacecamerademo.camera.DualCameraHelper
+ com.lenovo.lefacecamerademo.camera.DualCameraHelper$1
+ com.lenovo.lefacecamerademo.camera.DualCameraHelper$2
+ com.lenovo.lefacecamerademo.camera.DualCameraHelper$3
+ com.lenovo.lefacecamerademo.camera.DualCameraHelper$Builder
+com/lenovo/lefacecamerademo/ui/fragment/HostSettingFragment.java
+ com.lenovo.lefacecamerademo.ui.fragment.HostSettingFragment
+com/lenovo/lefacecamerademo/utils/SharedPreferencesUtil.java
+ com.lenovo.lefacecamerademo.utils.SharedPreferencesUtil
+com/lenovo/lefacecamerademo/service/FaceService.java
+ com.lenovo.lefacecamerademo.service.FaceService
+ com.lenovo.lefacecamerademo.service.FaceService$1
+com/lenovo/lefacecamerademo/utils/PadLightUtils.java
+ com.lenovo.lefacecamerademo.utils.PadLightUtils
+com/lenovo/lefacecamerademo/utils/BmpCompressUtils.java
+ com.lenovo.lefacecamerademo.utils.BmpCompressUtils
+com/lenovo/lefacecamerademo/ui/fragment/SettingFragment.java
+ com.lenovo.lefacecamerademo.ui.fragment.SettingFragment
+ com.lenovo.lefacecamerademo.ui.fragment.SettingFragment$1
+com/lenovo/lefacecamerademo/widget/OverlayView.java
+ com.lenovo.lefacecamerademo.widget.OverlayView
+com/lenovo/lefacecamerademo/ui/fragment/InformationFragment.java
+ com.lenovo.lefacecamerademo.ui.fragment.InformationFragment
+com/lenovo/lefacecamerademo/ui/fragment/FunctionFragment.java
+ com.lenovo.lefacecamerademo.ui.fragment.FunctionFragment
+ com.lenovo.lefacecamerademo.ui.fragment.FunctionFragment$1
+ com.lenovo.lefacecamerademo.ui.fragment.FunctionFragment$1$1
+ com.lenovo.lefacecamerademo.ui.fragment.FunctionFragment$1$2
+ com.lenovo.lefacecamerademo.ui.fragment.FunctionFragment$10
+ com.lenovo.lefacecamerademo.ui.fragment.FunctionFragment$11
+ com.lenovo.lefacecamerademo.ui.fragment.FunctionFragment$2
+ com.lenovo.lefacecamerademo.ui.fragment.FunctionFragment$2$1
+ com.lenovo.lefacecamerademo.ui.fragment.FunctionFragment$3
+ com.lenovo.lefacecamerademo.ui.fragment.FunctionFragment$4
+ com.lenovo.lefacecamerademo.ui.fragment.FunctionFragment$5
+ com.lenovo.lefacecamerademo.ui.fragment.FunctionFragment$6
+ com.lenovo.lefacecamerademo.ui.fragment.FunctionFragment$7
+ com.lenovo.lefacecamerademo.ui.fragment.FunctionFragment$8
+ com.lenovo.lefacecamerademo.ui.fragment.FunctionFragment$9
+com/lenovo/lefacecamerademo/utils/NV21ToBitmap.java
+ com.lenovo.lefacecamerademo.utils.NV21ToBitmap
+com/lenovo/lefacecamerademo/instructions/InstructionsConnect.java
+ com.lenovo.lefacecamerademo.instructions.InstructionsConnect
+com/lenovo/lefacecamerademo/receiver/AutoStartBroadcastReceiver.java
+ com.lenovo.lefacecamerademo.receiver.AutoStartBroadcastReceiver
+com/lenovo/lefacecamerademo/widget/AutoFitTextureView.java
+ com.lenovo.lefacecamerademo.widget.AutoFitTextureView
+com/lenovo/lefacecamerademo/ui/fragment/CameraFragment.java
+ com.lenovo.lefacecamerademo.ui.fragment.CameraFragment
+ com.lenovo.lefacecamerademo.ui.fragment.CameraFragment$1
+ com.lenovo.lefacecamerademo.ui.fragment.CameraFragment$10
+ com.lenovo.lefacecamerademo.ui.fragment.CameraFragment$11
+ com.lenovo.lefacecamerademo.ui.fragment.CameraFragment$12
+ com.lenovo.lefacecamerademo.ui.fragment.CameraFragment$13
+ com.lenovo.lefacecamerademo.ui.fragment.CameraFragment$2
+ com.lenovo.lefacecamerademo.ui.fragment.CameraFragment$3
+ com.lenovo.lefacecamerademo.ui.fragment.CameraFragment$4
+ com.lenovo.lefacecamerademo.ui.fragment.CameraFragment$5
+ com.lenovo.lefacecamerademo.ui.fragment.CameraFragment$6
+ com.lenovo.lefacecamerademo.ui.fragment.CameraFragment$7
+ com.lenovo.lefacecamerademo.ui.fragment.CameraFragment$8
+ com.lenovo.lefacecamerademo.ui.fragment.CameraFragment$8$1
+ com.lenovo.lefacecamerademo.ui.fragment.CameraFragment$9
+ com.lenovo.lefacecamerademo.ui.fragment.CameraFragment$ClickThread
+com/lenovo/lefacecamerademo/utils/MyHardware.java
+ com.lenovo.lefacecamerademo.utils.MyHardware
+com/lenovo/lefacecamerademo/ui/fragment/BaseFragment.java
+ com.lenovo.lefacecamerademo.ui.fragment.BaseFragment
+com/lenovo/lefacecamerademo/utils/MyDbHelper.java
+ com.lenovo.lefacecamerademo.utils.MyDbHelper
+com/lenovo/lefacecamerademo/BuildConfig.java
+ com.lenovo.lefacecamerademo.BuildConfig
+com/lenovo/lefacecamerademo/utils/MqttUtil.java
+ com.lenovo.lefacecamerademo.utils.MqttUtil
+ com.lenovo.lefacecamerademo.utils.MqttUtil$1
+ com.lenovo.lefacecamerademo.utils.MqttUtil$2
+ com.lenovo.lefacecamerademo.utils.MqttUtil$3
